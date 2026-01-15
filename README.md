@@ -3,7 +3,7 @@
 Alpha is a lightweight Python chess engine built on python-chess, focused on material evaluation, tactical gains, and basic positional ideas.
 It uses a selective search approach instead of full minimax, making it faster and easier to experiment with.
 
-Status: `Early Beta (0.1.0b)`
+Status: `Early Beta (0.2.0b)`
 
 ## Strength
 This is a strength table that shows the statistics of this engine playing a game against `Chess.com 3200 Elo bot`.
