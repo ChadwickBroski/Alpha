@@ -1,6 +1,3 @@
-# EVALUATION DOES NOT WORK!!!!!!!!!!!!!!!!!!!!!!!!! 
-# IT GIVES POINTS FOR ATTACKING AND NOT WINNING MATERIALLLL!!!!!!!!!!!!!!!!!
-
 import chess
 import time
 
