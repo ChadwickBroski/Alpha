@@ -69,8 +69,8 @@ Computer thought for 1.501 seconds.
 This is a strength table that shows the statistics of this engine playing a game against `Chess.com 3200 Elo bot`.
 > Note this is only one game, one, just one.
 
-### Alpha v0.1.0
-| Site | ELO | CENTIPAWN LOSS | Accuracy |
-|--------|--------|------------|---------|
-| Chess.com | 1250 ELO | ~95-115 | 66% |
-| Lichess.org   | ~950ELO | 77 | ~74-78% |
+| Unit | v0.1.0 | v0.2.0 |
+|--------|--------|-----|
+| ELO | 1250 ELO | 1550 ELO |
+| CENTIPAWN LOSS | 77 | 48 |
+| Accuracy | 66% | 71% |
