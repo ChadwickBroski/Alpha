@@ -5,15 +5,6 @@ It uses a selective search approach instead of full minimax, making it faster an
 
 Status: `Early Beta (0.2.0b)`
 
-## Strength
-This is a strength table that shows the statistics of this engine playing a game against `Chess.com 3200 Elo bot`.
-> Note this is only one game, one, just one.
-
-| Site | ELO | CENTIPAWN LOSS | Accuracy |
-|--------|--------|------------|---------|
-| Chess.com | 1250 ELO | ~95-115 | 66% |
-| Lichess.org   | ~950ELO | 77 | ~74-78% |
-
 ## Features
 
 ### Custom Evaluation Function
@@ -73,3 +64,13 @@ Your Move: e4
 Computer plays: e5
 Computer thought for 1.501 seconds.
 ```
+
+## Strength
+This is a strength table that shows the statistics of this engine playing a game against `Chess.com 3200 Elo bot`.
+> Note this is only one game, one, just one.
+
+### Alpha v0.1.0
+| Site | ELO | CENTIPAWN LOSS | Accuracy |
+|--------|--------|------------|---------|
+| Chess.com | 1250 ELO | ~95-115 | 66% |
+| Lichess.org   | ~950ELO | 77 | ~74-78% |
