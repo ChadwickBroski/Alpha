@@ -42,3 +42,25 @@ Run:
 ```bash
 python alpha.py
 ```
+
+## How to play
+- Enter moves in SAN format
+Example:
+```mathematica
+e4
+Nf3
+Qxe5
+0-0
+```
+- Special Commands:
+- `fen` - Outputs current FEN
+- `quit` - Quits the game
+
+## Example Output:
+```yaml
+ALPHA 0.1.0b is starting...
+San moves are accepted.
+Your Move: e4
+Computer plays: e5
+Computer thought for 1.501 seconds.
+```
