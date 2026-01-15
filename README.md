@@ -29,8 +29,16 @@ Status: `Early Beta (0.1.0b)`
 
 - Adjust search depth and number of candidate lines
 
-## Human vs Engine (CLI)
+## Running the Engine
+**Requirements:**
+- Python 3.8+
+- `python-chess`
 
-SAN moves supported
-
-Board display
+Install dependencies:
+```bash
+pip install python-chess
+```
+Run:
+```bash
+python alpha.py
+```
